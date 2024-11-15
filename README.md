@@ -56,7 +56,7 @@
 ---
 
 ## 📫 Jak się ze mną skontaktować?
-- **GitHub:** 
+- **GitHub:** https://adax1211.github.io/homepage/
   
 - **E-mail:** adamwasiak@yahoo.co.uk 
 
