@@ -1,7 +1,10 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f4f8;
+    background: url('../images/calculator.png');
+    background-repeat: no-repeat;  
+    background-size: cover;
+    background-attachment: fixed;
     color: #333;
     display: flex;
     justify-content: center;
@@ -10,8 +13,10 @@ body {
     margin: 0;
 }
 
+
+
 .container {
-    background-color: #c5c5c5a3;
+    background-color: #c5c5c5d4 ;
     padding: 2rem;
     border-radius: 12px;
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
