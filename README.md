@@ -1,3 +1,5 @@
+![Adam's Photo](.//images/selfie.png)
+
 # 👋 Cześć, jestem Adam!  
 
 🎯 **Cel:** Tworzę rozwiązania, które łączą pasję do finansów, motoryzacji i programowania. Pracuję nad osiągnięciem finansowej niezależności oraz rozwoju projektów związanych z technologiami.  
