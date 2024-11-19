@@ -1,54 +1,71 @@
 ![Adam's Photo](.//images/selfie.png)
 
 👋 Hi, I'm Adam!
-🎯 Goal: I create solutions that combine my passion for finance, automotive, and programming. I work towards achieving financial independence and developing technology-related projects.
+# Here is guide how to use currency conventer: #
+# 🌟 Currency Converter User Guide 🌟
 
-🛠️ Skills and Technologies
+Welcome to the **Currency Converter**, a simple and efficient tool for converting amounts between currencies such as **USD**, **EUR**, and **GBP**. Follow the steps below to use it effortlessly!
 
-Programming:
+---
 
-HTML, CSS, JavaScript
-Tools:
+## 📖 How to Use the Currency Converter
 
-Visual Studio Code
-Launch X431 Pro Elite
-Excel (advanced formulas, data visualization)
-Specializations:
+### 🛠 Step-by-Step Instructions
 
-Cryptocurrency and financial market analysis
-ECU programming and optimization (EGR, DPF, AdBlue)
-💼 Professional Experience
+| **Step** | **Description**                                                                                   | **Example**                                                                 |
+|----------|---------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| 1️⃣      | **Enter the Amount**: Type the value you want to convert into the `Amount` field.                  | Type `100` in the input box labeled **Amount**.                             |
+| 2️⃣      | **Choose Source Currency**: Select the currency you’re converting **from** using the first dropdown. | Choose **USD** from the dropdown.                                           |
+| 3️⃣      | **Choose Target Currency**: Select the currency you’re converting **to** using the second dropdown. | Choose **EUR** from the dropdown.                                           |
+| 4️⃣      | **Click Convert**: Press the **Convert** button to calculate the result.                           | Click the `Convert` button to display the conversion result.                |
+| 5️⃣      | **View Result**: The converted value will appear in the result section below.                      | The output will display the equivalent amount in Euros, e.g., `91.27 EUR`. |
 
-🚕 Driver
-Location: Belfast, Northern Ireland
+---
 
-Managing work organization and time in a dynamic environment.
-Building positive relationships with customers.
-Handling technology related to transportation (e.g., GPS systems, communication).
-📈 Projects and Interests
+## 🛠 Features
 
-🧾 Financial Projects
+- 🔄 **Real-Time Conversion:** Instant and accurate currency conversion.
+- 🌐 **User-Friendly Interface:** Minimalistic and intuitive design for easy navigation.
+- ⚡ **Fast Performance:** Immediate calculation of results.
 
-Crypto Analysis: Analyzing market data on CoinGecko to identify potential high-growth "meme coins."
-Excel Finance: Creating spreadsheets to track cryptocurrency profits and losses (BTC, DOGE, ETH).
-🚗 Automotive
+---
 
-ECU Diagnostics: Learning to remap automotive systems to offer services in the local market.
-🛠️ DIY and New Technologies
+## 📊 Supported Currencies
 
-Testing smart devices.
-Experimenting with Wi-Fi 6 technologies and mini PCs.
-Nostalgia: Amiga 500.
-🌍 Languages
+| Symbol | Name                 |
+|--------|----------------------|
+| 🇺🇸 USD  | United States Dollar |
+| 🇪🇺 EUR  | Euro                |
+| 🇬🇧 GBP  | British Pound       |
 
-Polish (native)
-English (fluent)
-✨ Values
+---
 
-Continuous growth and learning new things.
-Passion for technology and finance.
-Striving for a balance between work and personal life.
-📫 How to Contact Me?
+## 🚨 Important Notes
 
-GitHub: https://adax1211.github.io/homepage/
-E-mail: adamwasiak@yahoo.co.uk
+1. **Enter a valid amount**: Ensure you input a valid number, e.g., `50`, `1000.25`.
+2. **Select currencies correctly**: Double-check your source and target currencies.
+3. **Enable JavaScript**: The tool requires JavaScript to function properly.
+
+---
+
+## 🌟 Example Workflow
+
+1. Input: `Amount: 100`, `From: USD`, `To: EUR`.
+2. Click **Convert**.
+3. Output: `Result: 91.27 EUR` (based on current exchange rates in JavaScript).
+
+---
+
+## 🖼 Interface Preview
+
+![Currency Converter Interface](,,,,,,,)
+
+---
+
+## 📩 Feedback or Support
+
+For issues or suggestions, feel free to contact me:  
+📧 **Email:** adamwasiak@yahoo.co.uk
+
+---
+
