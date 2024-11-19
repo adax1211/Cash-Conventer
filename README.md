@@ -1,67 +1,54 @@
 ![Adam's Photo](.//images/selfie.png)
 
-# 👋 Cześć, jestem Adam!  
+👋 Hi, I'm Adam!
+🎯 Goal: I create solutions that combine my passion for finance, automotive, and programming. I work towards achieving financial independence and developing technology-related projects.
 
-🎯 **Cel:** Tworzę rozwiązania, które łączą pasję do finansów, motoryzacji i programowania. Pracuję nad osiągnięciem finansowej niezależności oraz rozwoju projektów związanych z technologiami.  
+🛠️ Skills and Technologies
 
----
+Programming:
 
-## 🛠️ Umiejętności i Technologie
-- **Programowanie:**
-  - HTML, CSS, JavaScript
-- **Narzędzia:**
-  - Visual Studio Code
-  - Lunch X431 Pro Elite
-  - Excel (zaawansowane formuły, wizualizacja danych)
-- **Specjalizacje:**
-  - Analiza kryptowalut i rynków finansowych
-  - Programowanie i optymalizacja ECU (EGR, DPF, AdBlue)
+HTML, CSS, JavaScript
+Tools:
 
----
+Visual Studio Code
+Launch X431 Pro Elite
+Excel (advanced formulas, data visualization)
+Specializations:
 
-## 💼 Doświadczenie zawodowe
-### 🚕 Kierowca  
-**Lokalizacja:** Belfast, Irlandia Północna   
-- Organizacja i zarządzanie czasem pracy w dynamicznym środowisku.  
-- Budowanie pozytywnych relacji z klientami.  
-- Obsługa technologii związanych z transportem (np. systemy GPS, komunikacja).  
+Cryptocurrency and financial market analysis
+ECU programming and optimization (EGR, DPF, AdBlue)
+💼 Professional Experience
 
----
+🚕 Driver
+Location: Belfast, Northern Ireland
 
-## 📈 Projekty i Zainteresowania
-### 🧾 Projekty finansowe
-- **Kryptoanaliza:** Analizuję dane rynkowe w CoinGecko, identyfikując potencjalne "meme coins" z wysokim potencjałem wzrostu.
-- **Excel Finanse:** Tworzę arkusze śledzące zyski i straty w kryptowalutach (BTC, DOGE, ETH).
+Managing work organization and time in a dynamic environment.
+Building positive relationships with customers.
+Handling technology related to transportation (e.g., GPS systems, communication).
+📈 Projects and Interests
 
-### 🚗 Motoryzacja
-- **Diagnostyka ECU:** Uczę się przemapowywania systemów samochodowych, by oferować usługi na rynku lokalnym.
-  
+🧾 Financial Projects
 
-### 🛠️ DIY i Nowe Technologie
-- Testuję sprzęty smart 
-- Eksperymentuję z technologiami Wi-Fi 6 i mini PC.
-- Nostalgia: Amiga 500
+Crypto Analysis: Analyzing market data on CoinGecko to identify potential high-growth "meme coins."
+Excel Finance: Creating spreadsheets to track cryptocurrency profits and losses (BTC, DOGE, ETH).
+🚗 Automotive
 
----
+ECU Diagnostics: Learning to remap automotive systems to offer services in the local market.
+🛠️ DIY and New Technologies
 
-## 🌍 Języki
-- **Polski** (ojczysty)  
-- **Angielski** (płynny)  
+Testing smart devices.
+Experimenting with Wi-Fi 6 technologies and mini PCs.
+Nostalgia: Amiga 500.
+🌍 Languages
 
----
+Polish (native)
+English (fluent)
+✨ Values
 
-## ✨ Wartości
-- Nieustanny rozwój i nauka nowych rzeczy.  
-- Pasja do technologii i finansów.  
-- Dążenie do równowagi między życiem zawodowym a osobistym.  
+Continuous growth and learning new things.
+Passion for technology and finance.
+Striving for a balance between work and personal life.
+📫 How to Contact Me?
 
----
-
-## 📫 Jak się ze mną skontaktować?
-- **GitHub:** https://adax1211.github.io/homepage/
-  
-- **E-mail:** adamwasiak@yahoo.co.uk 
-
----
-
-
+GitHub: https://adax1211.github.io/homepage/
+E-mail: adamwasiak@yahoo.co.uk
