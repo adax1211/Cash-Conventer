@@ -58,7 +58,8 @@ Welcome to the **Currency Converter**, a simple and efficient tool for convertin
 
 ## 🖼 Interface Preview
 
-![https://adax1211.github.io/Cash-Conventer/](,,,,,,,)
+<a href="https://adax1211.github.io/Currency-Converter/" rel="nofollow">Currency Converter</a>
+
 
 ---
 
