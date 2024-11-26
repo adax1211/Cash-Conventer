@@ -16,21 +16,25 @@ document.getElementById("convertButton").addEventListener("click", () => {
     }
 
     
-    const getConversionRate = (from, to) => {
-        const conversionRates = {
-            "USD_EUR": 0.85,
-            "USD_GBP": 0.75,
-            "EUR_USD": 1.18,
-            "EUR_GBP": 0.88,
-            "GBP_USD": 1.33,
-            "GBP_EUR": 1.14,
-        };
-        return conversionRates[`${from}_${to}`] || 1; 
+    const ratesToBase = {
+        "PLN": 1,
+        "USD": 4.0,
+        "EUR": 4.5,
+        "GBP": 5.2
     };
 
     
-    const conversionRate = getConversionRate(currencyFrom, currencyTo);
+    if (!ratesToBase[currencyFrom] || !ratesToBase[currencyTo]) {
+        alert("Selected currencies are not supported.");
+        return;
+    }
 
-    const result = amount * conversionRate;
-    document.getElementById("resultText").innerText = `${amount} ${currencyFrom} is approximately ${result.toFixed(2)} ${currencyTo}.`;
+    
+    const rateFrom = ratesToBase[currencyFrom]; 
+    const rateTo = ratesToBase[currencyTo];    
+
+    const result = (amount * rateTo) / rateFrom;
+
+    document.getElementById("resultText").innerText = 
+        `${amount} ${currencyFrom} is approximately ${result.toFixed(2)} ${currencyTo}.`;
 });
