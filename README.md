@@ -1,10 +1,9 @@
-![Adam's Photo](.//images/selfie.png)
-
-👋 Hi, I'm Adam!
-# Here is guide how to use currency conventer: #
 # 🌟 Currency Converter User Guide 🌟
 
-Welcome to the **Currency Converter**, a simple and efficient tool for converting amounts between currencies such as **USD**, **EUR**, and **GBP**. Follow the steps below to use it effortlessly!
+![Adam's Photo](./images/selfie.png)
+
+👋 Hi, I'm Adam!  
+Welcome to the **Currency Converter**, a simple and efficient tool for converting amounts between currencies like **USD**, **EUR**, **GBP**, and **PLN**. Follow the guide below to get started!
 
 ---
 
@@ -14,7 +13,7 @@ Welcome to the **Currency Converter**, a simple and efficient tool for convertin
 
 | **Step** | **Description**                                                                                   | **Example**                                                                 |
 |----------|---------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
-| 1️⃣      | **Enter the Amount**: Type the value you want to convert into the `Amount` field.                  | Type `100` in the input box labeled **Amount**.                             |
+| 1️⃣      | **Enter the Amount**: Input the value you want to convert in the `Amount` field.                   | Type `100` in the input box labeled **Amount**.                             |
 | 2️⃣      | **Choose Source Currency**: Select the currency you’re converting **from** using the first dropdown. | Choose **USD** from the dropdown.                                           |
 | 3️⃣      | **Choose Target Currency**: Select the currency you’re converting **to** using the second dropdown. | Choose **EUR** from the dropdown.                                           |
 | 4️⃣      | **Click Convert**: Press the **Convert** button to calculate the result.                           | Click the `Convert` button to display the conversion result.                |
@@ -24,49 +23,49 @@ Welcome to the **Currency Converter**, a simple and efficient tool for convertin
 
 ## 🛠 Features
 
-- 🔄 **Real-Time Conversion:** Instant and accurate currency conversion.
-- 🌐 **User-Friendly Interface:** Minimalistic and intuitive design for easy navigation.
-- ⚡ **Fast Performance:** Immediate calculation of results.
+- 🔄 **Real-Time Conversion**: Instant and accurate currency conversion based on predefined rates.
+- 🌐 **User-Friendly Interface**: Minimalistic and intuitive design for easy navigation.
+- ⚡ **Fast Performance**: Immediate calculation of results with no delays.
 
 ---
 
 ## 📊 Supported Currencies
 
-| Symbol | Name                 |
-|--------|----------------------|
-| 🇺🇸 USD  | United States Dollar |
-| 🇪🇺 EUR  | Euro                |
-| 🇬🇧 GBP  | British Pound       |
+| Symbol | Name                  |
+|--------|-----------------------|
+| 🇺🇸 USD  | United States Dollar  |
+| 🇪🇺 EUR  | Euro                 |
+| 🇬🇧 GBP  | British Pound        |
+| 🇵🇱 PLN  | Polish Zloty         |
 
 ---
 
 ## 🚨 Important Notes
 
-1. **Enter a valid amount**: Ensure you input a valid number, e.g., `50`, `1000.25`.
-2. **Select currencies correctly**: Double-check your source and target currencies.
-3. **Enable JavaScript**: The tool requires JavaScript to function properly.
+1. **Enter a valid amount**: Ensure you input a valid number, e.g., `50`, `1000.25`. Non-numeric or negative values will prompt an error message.
+2. **Select different currencies**: The source and target currencies must be different; otherwise, the tool will alert you.
+3. **Enable JavaScript**: Ensure JavaScript is enabled in your browser for the tool to function properly.
 
 ---
 
 ## 🌟 Example Workflow
 
-1. Input: `Amount: 100`, `From: USD`, `To: EUR`.
-2. Click **Convert**.
-3. Output: `Result: 91.27 EUR` (based on current exchange rates in JavaScript).
+1. Input: `Amount: 100`, `From: USD`, `To: EUR`.  
+2. Click **Convert**.  
+3. Output: `Result: 91.27 EUR` (based on the current exchange rates predefined in JavaScript).
 
 ---
 
 ## 🖼 Interface Preview
 
-<a href="https://adax1211.github.io/Currency-Converter/" rel="nofollow">Currency Converter</a>
-
+[Try the Currency Converter](https://adax1211.github.io/Currency-Converter/)
 
 ---
 
 ## 📩 Feedback or Support
 
-For issues or suggestions, feel free to contact me:  
-📧 **Email:** adamwasiak@yahoo.co.uk
+For any issues, suggestions, or support, feel free to reach out:  
+📧 **Email:** [adamwasiak@yahoo.co.uk](mailto:adamwasiak@yahoo.co.uk)
 
 ---
 
